@@ -1,3 +1,4 @@
+//초기화
 var coin = 0;
 document.getElementById("current").innerHTML = coin + "원";
 document.getElementById("selection").innerHTML = "아이스크림을 선택해주세요";
